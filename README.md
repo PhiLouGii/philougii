@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philippa Louise Giibwa</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, Dart**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philougii&show_icons=true&locale=en&layout=compact" alt="philougii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philougii&show_icons=true&locale=en" alt="philougii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philougii&" alt="philougii" /></p>
