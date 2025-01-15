@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philougii&show_icons=true&locale=en" alt="philougii" /></p>
 
 ## Github Trophies
-https://github-profile-trophy.vercel.app/?username=PhiLouGii&theme=juicyfresh
+![Trophy]https://github-profile-trophy.vercel.app/?username=PhiLouGii&theme=juicyfresh
