@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philippa Louise Giibwa</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
-- 🌱 I’m currently learning **Python, Dart**
+- 🌱 I’m currently learning **Python, Dart, Django**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
