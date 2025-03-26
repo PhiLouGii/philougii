@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏾, I'm Philippa Louise Giibwa</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
-- 🌱 I’m currently learning **Dart, Java, React**
+- 🌱 I’m currently learning **Java, React**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Figma**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Dart, Figma**
 
 - 📫 How to reach me **pgiibwa04@gmail.com**
 
