@@ -8,10 +8,10 @@
 - 📫 How to reach me **pgiibwa04@gmail.com**
 
 ### 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philougii&show_icons=true&locale=en&theme=dark" alt="philougii" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philougii&show_icons=true&locale=en&layout=compact&theme=dark" alt="philougii" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philougii&show_icons=true&locale=en&theme=dark" alt="philougii" /></p>
 
 
 ### 🏆 GitHub Trophies
