@@ -2,8 +2,8 @@
 <h3 align="center">A passionate software engineering student</h3>
 
 - 🔭 I’m currently working on [Online DressUp game](https://github.com/PhiLouGii/dress-up-game)
-- 🌱 I’m currently learning **Java, React**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Dart, Figma**
+- 🌱 I’m currently learning **Java**
+- 💬 Ask me about **HTML, CSS, JavaScript, React + TypeScript, Python, Dart, Figma**
 - 🤝🏽 Looking for collaborations on Mobile Dev Apps
 - 📫 How to reach me **pgiibwa04@gmail.com**
 
