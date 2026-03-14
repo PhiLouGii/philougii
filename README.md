@@ -1,48 +1,125 @@
-<h1 align="center">Hi 👋🏾, I'm Philippa Louise Giibwa</h1>
-<h3 align="center">A passionate software engineering student</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Online DressUp game](https://github.com/PhiLouGii/dress-up-game)
-- 🌱 I’m currently learning **Java**
-- 💬 Ask me about **HTML, CSS, JavaScript, React + TypeScript, Python, Dart, Figma**
-- 🤝🏽 Looking for collaborations on Mobile Dev Apps
-- 📫 How to reach me **pgiibwa04@gmail.com**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Philippa%20Louise%20Giibwa&fontSize=40&fontColor=e94560&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Author%20%7C%20Artist&descColor=a8b2d8&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### 📊 GitHub Stats
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philougii&show_icons=true&locale=en&layout=compact&theme=dark" alt="philougii" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philougii&show_icons=true&locale=en&theme=dark" alt="philougii" /></p>
+<div align="center">
 
+</div>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/PhiLouGii/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PhiLouGii&theme=onedark&bg_color=000000" alt="GitHub Trophies" />
-  </a>
-</p>
-
-
-
-## 🛠️ Languages & Tools
-
-| **Frontend** | **Backend** | **DevOps & Tools** |
-|--------------|-------------|--------------------|
-| <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a> | <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a> |
-| <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a> | <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a> | <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a> |
-| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> | <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> | <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a> |
-| <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a> |  | <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a> |
-| <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a> |  | <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a> |
-| <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a> |  | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a> |
-|  |  | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a> |
-|  |  | <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a> |
+<br/>
 
 ---
 
-### 📞Connect With Me
-<p align="left">
-  <a href="https://twitter.com/philigii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="philigii" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/philippa-giibwa-38886824a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/philippa-giibwa-38886824a/" height="30" width="40" /></a>
-</p>
+## Recent Work
+
+<div align="center">
+
+[![Grandma Mode](https://img.shields.io/badge/Grandma%20Mode-AI%20Web%20Navigator-e94560?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/PhiLouGii/Gemini-Live-Agent-Challenge)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-grandma--mode.netlify.app-0f3460?style=for-the-badge&logo=netlify&logoColor=white)](https://grandma-mode.netlify.app)
+
+*Chrome extension powered by Gemini 2.0 Flash + Google Cloud Run — built for the Gemini Live Agent Challenge*
+
+</div>
 
 ---
-🩷P. L. Giibwa
+
+## Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-e94560?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0f3460?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-16213e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f3460?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-16213e?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Sass](https://img.shields.io/badge/Sass-e94560?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0f3460?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-16213e?style=for-the-badge&logo=figma&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-0f3460?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-16213e?style=for-the-badge&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-e94560?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f3460?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-16213e?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Firebase](https://img.shields.io/badge/Firebase-e94560?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0f3460?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & Tools**
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-16213e?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-e94560?style=for-the-badge&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0f3460?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-16213e?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-e94560?style=for-the-badge&logo=postman&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0f3460?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=philougii&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philougii&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=a8b2d8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PhiLouGii&theme=midnight-purple&hide_border=true&background=1a1a2e&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=a8b2d8&sideLabels=a8b2d8&dates=a8b2d8&currStreakNum=e94560&sideNums=a8b2d8" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhiLouGii&bg_color=1a1a2e&color=a8b2d8&line=e94560&point=e94560&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhiLouGii/PhiLouGii/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhiLouGii/PhiLouGii/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PhiLouGii/PhiLouGii/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-@philigii-e94560?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/philigii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Philippa%20Giibwa-0f3460?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippa-giibwa-38886824a/)
+[![Email](https://img.shields.io/badge/Email-pgiibwa04@gmail.com-16213e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgiibwa04@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
+
+</div>
