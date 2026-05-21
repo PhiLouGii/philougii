@@ -83,7 +83,7 @@ Over time, I have developed **solid experience** across the **web development ec
 </br>
 
 
-<img src="./assets/icons/knife.png" width=106px align="right">
+<img src="./assets/knife.png" width=106px align="right">
 
 > [!Caution]
 >
