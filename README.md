@@ -9,7 +9,7 @@
 
 <!-- Banner  -->
 <a href="https://github.com/PhiLouGii">
-  <img src="assets/images/Banner Persona.svg" alt="Banner"  style="width:100%; height:auto"/>
+  <img src="assets/images/BannerPersona.png" alt="Banner"  style="width:100%; height:auto"/>
 </a>
 
 <div align="center">
