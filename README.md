@@ -8,8 +8,9 @@
 -->
 
 <!-- Banner  -->
+<div align="center">
 <a href="https://github.com/PhiLouGii">
-  <img src="assets/images/BannerPersona.png" alt="Banner"  style="width:100%; height:auto"/>
+  <img src="assets/BannerPersona.png" alt="Banner"  style="width:600px; height:250px"/>
 </a>
 
 <div align="center">
