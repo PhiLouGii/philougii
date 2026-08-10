@@ -1,123 +1,24 @@
-<!--
-    Dear user, using my README as a base
-    To create your own, I’m happy to authorise its use 
-    And I’m glad you liked it! I just kindly ask for one thing:
-
-    Please, leave a star on my README, it would truly make my day :)
-    GitHub: https://github.com/PhiLouGii
--->
-
-<!-- Banner  -->
-<div align="center">
-<a href="https://github.com/PhiLouGii">
-  <img src="assets/BannerPersona.png" alt="Banner"  style="width:600px; height:250px"/>
-</a>
-
-<div align="center">
-
-  <a href="https://api.github-star-counter.workers.dev/user/PhiLouGii">
-    <img width="120px" 
-        alt="Stars" 
-        title="Stars Profile" 
-        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PhiLouGii" /> 
-  </a>
-  <a href="https://api.github-star-counter.workers.dev/user/PhiLouGii">
-    <img width="111px" 
-        alt="forks" 
-        title="Forks Repository" 
-        src="https://custom-icon-badges.demolab.com/github/forks/Glauedson/Glauedson?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
-  </a>
-  <a href="https://github.com/PhiLouGii?tab=followers">
-    <img width="150px" 
-        alt="Followers" 
-        title="Github Followers" 
-        src="https://custom-icon-badges.herokuapp.com/github/followers/PhiLouGii?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
-  </a>
-</div>
-
-</br>
-
-<!-- Who am i? -->
-
-**Who Am I?**
-</div>
-
-<div align="justify">
-
-I'm a Software Engineer freshly done with my degree at African Leadership University in Kigali. I build full-stack web apps, mobile apps, and somehow also find time to write novels. I care deeply about making technology that actually means something — especially for African communities. When I'm not coding, I'm probably designing something, writing another novel, or brainstorming for a new idea.
-
-Over time, I have developed **solid experience** across the **web development ecosystem**, with a strong passion for `Front-End Development`, where **logic meets creativity and visual design**. Alongside web technologies, I have expanded my skills into **mobile development**, focusing on building modern applications using `Android Studio`.
-</div>
-
-</br>
-</br>
-
-<!-- badges -->
-<div align="center">
-  <strong>You can Click here</strong>
-  </br>
-
-  <!-- Pinterest -->
-  <a href="https://br.pinterest.com/philippalgiibwa_/" target="_blank">
-    <img width="130px" 
-          src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=Pinterest&logoColor=white" 
-          alt="Pinterest"
-          title="My Pinterest"/>
-  </a>
-  <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/philippa-giibwa-38886824a" target="_blank">
-    <img width="100px" 
-          src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
-          alt="Linkedin"
-          title="My Linkedin"/>
-  </a>
-  <!-- GMail  -->
-  <a href="https://mail.google.com/mail/?view=cm&to=pgiibwa04@gmail.com" target="_blank">
-    <img width="97px" 
-          src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" 
-          alt="E-mail"
-          title="My E-mail"/>
-  </a>
-
-</div>
-</br>
+# 💫 About Me:
+<h1 align="center">Hi 👋🏾, I'm Philippa Louise Giibwa</h1><br><h3 align="center">A passionate Software Engineer </h3><br><br>- 🔭 I’m currently working on [Online DressUp game](https://github.com/PhiLouGii/dress-up-game)<br>- 🌱Aspiring Game Developer**<br><br>-💬 Ask me about Full-Stack Dev<br><br>- 🤝🏽 Looking for collaborations on cool projects to learn from. <br>- 📫 How to reach me **pgiibwa04@gmail.com**
 
 
-<img src="./assets/knife.png" width=106px align="right">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/philippa-giibwa-38886824a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/philigii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pgiibwa04@gmail.com) 
 
-> [!Caution]
->
->“It works on my machine.” — Every developer ever.
->
-> If at first you don’t succeed, call it version 1.0.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PhiLouGii&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=PhiLouGii&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PhiLouGii&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PhiLouGii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<table align="center">
-  <tr>
-    <!-- Skills Left -->
-    <td valign="top" width="45%">
-      <img src="./assets/images/Stack.svg">
-      </br>
-      </br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass," /><br>
-      <img src="https://skillicons.dev/icons?i=react,python,nodejs,flutter,dart," /><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,vite" /><br>
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,unity,figma,postman," /><br>
-      <img src="https://skillicons.dev/icons?i=docker,googlecloud,github,git,vercel" /><br>
-    </td>
-    <!---->
-    <td valign="top" width="55%">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PhiLouGii&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
-    </td>
-  </tr>
-</table>
+---
+[![](https://komarev.com/ghpvc/?username=PhiLouGii&icon=5&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
-<!--
-<img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
