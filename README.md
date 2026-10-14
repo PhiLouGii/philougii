@@ -4,7 +4,7 @@
 
 I’m a software engineer who enjoys building interactive experiences, exploring creative ideas through code, and turning concepts into working products.
 
-- Currently building **[Now Playing](YOUR_NOW_PLAYING_REPO_URL)**, a music guessing game.
+- Currently building **[Now Playing](https://github.com/PhiLouGii/now-playing)**, a music guessing game.
 - Exploring game development through my **[Dress-Up Game](https://github.com/PhiLouGii/dress-up-game)**.
 - Interested in full-stack development, interactive applications, and game design.
 - Open to collaborating on interesting projects and learning alongside other developers.
